@@ -11,18 +11,25 @@ This Chrome extension automatically clears the `localStorage` of the current web
 ## Installation
 
 1. Clone the repository or download the ZIP file.
+> ![Clone repository](images/guide/01-clone-repository-or-download.png "Clone repository")
 2. Navigate to `chrome://extensions/` in your Chrome browser.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
-4. Click on "Load unpacked" and select the `clear-storage-extension` directory.
-5. The extension should now be installed and active.
+4. Click on "Load unpacked"
+> For step 2 - 4, see below
+> ![Unpack extension](images/guide/2-4-unpack.png "Unpack extension")
+>
+5. select the `clear-storage-extension` directory.
+> ![Select directory](images/guide/5-select-directory.png "Select directory")
+6. The extension should now be installed and active.
+> ![Extension loaded](images/guide/6-extension-loaded.png "Extension loaded")
+
 
 ## Usage
 
 Once the extension is installed, it will automatically clear the `localStorage` of any webpage you visit whenever you refresh the page. There is no additional setup required.
 
-## Contributing
-
-If you would like to contribute to this project, feel free to submit a pull request or open an issue for any bugs or feature requests.
+## Notice
+This project will be remove after
 
 ## License
 
