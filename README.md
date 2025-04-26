@@ -8,6 +8,10 @@ This Chrome extension automatically clears the `localStorage` of the current web
 - **Lightweight**: Minimal impact on browser performance
 - **Zero Configuration**: Works immediately after installation
 
+## Special Note for PRIZM Website
+For users of the [PRIZM](global.prizm.co.k) website who are voting: This extension will only solve the issue when you encounter the error `잠시 후 다시 시도해주세요` (Please try again later). It cannot resolve the `This email is not available` error.
+
+
 ## Installation
 
 ### From Source Code
